@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola, soy Fernando Castro!
 
 🎓 **Estudiante de Desarrollo de Software** en el **Instituto Tecnológico de Software** (2025 – 2029)
@@ -11,7 +10,7 @@ Siempre buscando mejorar mis habilidades y aportar ideas creativas a cada proyec
 ### 🚀 Sobre mí
 - 💡 Me considero **hard working**, con una fuerte **capacidad de liderazgo** y **creatividad**.  
 - 🤝 Disfruto del **trabajo en equipo** y la **comunicación efectiva**.  
-- 🌱 Actualmente estoy aprendiendo **programación, bases de datos y desarrollo web**.  
+- 🌱 Actualmente estoy aprendiendo **programación y en un curso de ciberseguridad**.  
 - 🧠 Mi meta: convertirme en un **desarrollador de software completo y adaptable**.
 
 ---
@@ -23,6 +22,7 @@ Siempre buscando mejorar mis habilidades y aportar ideas creativas a cada proyec
 | Comunicación 🗣️ | HTML / CSS 🌐 |
 | Trabajo en equipo 🤝 | JavaScript ⚡ |
 | Creatividad 🎨 | Git / GitHub 🧩 |
+| Capacidad de Resolver Problemas | Linux/Terminal |
 
 ---
 
@@ -35,7 +35,7 @@ Mi objetivo es **crear proyectos que inspiren, ayuden y aporten valor real**.
 ### 🌎 Conecta conmigo
 - ✉️ **Correo:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🧑‍💻 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
+- 🧑‍💻 **GitHub:** [github.com//Fernando-Castro-Hernandez](https://github.com/Fernando-Castro-Hernandez)
 
 ---
 
