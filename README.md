@@ -1,4 +1,45 @@
 ## Hi there 👋
+# 👋 ¡Hola, soy Fernando Castro!
+
+🎓 **Estudiante de Desarrollo de Software** en el **Instituto Tecnológico de Software** (2025 – 2029)
+
+💻 Apasionado por la tecnología, la innovación y el aprendizaje constante.  
+Siempre buscando mejorar mis habilidades y aportar ideas creativas a cada proyecto.
+
+---
+
+### 🚀 Sobre mí
+- 💡 Me considero **hard working**, con una fuerte **capacidad de liderazgo** y **creatividad**.  
+- 🤝 Disfruto del **trabajo en equipo** y la **comunicación efectiva**.  
+- 🌱 Actualmente estoy aprendiendo **programación, bases de datos y desarrollo web**.  
+- 🧠 Mi meta: convertirme en un **desarrollador de software completo y adaptable**.
+
+---
+
+### 🧰 Habilidades
+| 💪 Blandas | ⚙️ Técnicas (en progreso) |
+|-------------|----------------------------|
+| Liderazgo 👑 | Java ☕ |
+| Comunicación 🗣️ | HTML / CSS 🌐 |
+| Trabajo en equipo 🤝 | JavaScript ⚡ |
+| Creatividad 🎨 | Git / GitHub 🧩 |
+
+---
+
+### 📈 Objetivo
+> _“El código es más que líneas, es la forma de dar vida a las ideas.”_  
+Mi objetivo es **crear proyectos que inspiren, ayuden y aporten valor real**.
+
+---
+
+### 🌎 Conecta conmigo
+- ✉️ **Correo:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 🧑‍💻 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
+
+---
+
+⭐ _Si te interesa colaborar o compartir ideas, ¡no dudes en contactarme!_
 
 <!--
 **Fernando-Castro-Hernandez/Fernando-Castro-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
