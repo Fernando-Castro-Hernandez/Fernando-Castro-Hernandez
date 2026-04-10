@@ -9,7 +9,7 @@ Siempre buscando mejorar mis habilidades y aportar ideas creativas a cada proyec
 ###  Sobre mí
 -  Me considero una persona con una fuerte **capacidad de liderazgo** y **creatividad**.  
 -  Disfruto del **trabajo en equipo** y la **comunicación asertiva**.  
--  Actualmente estoy aprendiendo **programación y en un curso de ciberseguridad**.  
+-  Actualmente estoy aprendiendo **programación en Java**.  
 -  Mi meta: convertirme en un **desarrollador de software completo y adaptable**.
 
 ---
