@@ -18,10 +18,10 @@ Siempre buscando mejorar mis habilidades y aportar ideas creativas a cada proyec
 |  Blandas |  Técnicas (en progreso) |
 |-------------|----------------------------|
 | Liderazgo  | Java  |
-| Comunicación  | Ciberseguridad |
+| Comunicación  | ASP.NET Core |
 | Trabajo en equipo  | Python |
 | Creatividad  | Git / GitHub  |
-| Capacidad de Resolver Problemas | Linux/Terminal |
+| Capacidad de Resolver Problemas | AI agent |
 
 ---
 
