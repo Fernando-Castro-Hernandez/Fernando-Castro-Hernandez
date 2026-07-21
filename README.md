@@ -131,17 +131,17 @@ Automatización **en producción** que verifica transferencias bancarias con IA.
 <div align="center">
 
 <a href="https://github.com/Fernando-Castro-Hernandez/MazeSolver-BFS-DFS-visualizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=MazeSolver-BFS-DFS-visualizer&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="MazeSolver" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=MazeSolver-BFS-DFS-visualizer&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="MazeSolver" />
 </a>
 <a href="https://github.com/Fernando-Castro-Hernandez/Market-Backend-Demo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Market-Backend-Demo&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Market Backend Demo" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Market-Backend-Demo&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Market Backend Demo" />
 </a>
 <br/>
 <a href="https://github.com/Fernando-Castro-Hernandez/Proyectos-de-Programaci-n-Estructura-en-Java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Proyectos-de-Programaci-n-Estructura-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Proyectos Java Estructurada" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Proyectos-de-Programaci-n-Estructura-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Proyectos Java Estructurada" />
 </a>
 <a href="https://github.com/Fernando-Castro-Hernandez/Battleship-en-Java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Battleship-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Battleship en Java" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Battleship-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Battleship en Java" />
 </a>
 
 </div>
@@ -165,12 +165,12 @@ Automatización **en producción** que verifica transferencias bancarias con IA.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Castro-Hernandez&show_icons=true&count_private=true&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Estadísticas de GitHub" />
+<img height="180em" src="https://github-readme-stats-one-delta-15.vercel.app/api?username=Fernando-Castro-Hernandez&show_icons=true&count_private=true&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Estadísticas de GitHub" />
 <img height="180em" src="https://streak-stats.demolab.com?user=Fernando-Castro-Hernandez&background=1B2430&border=3A4756&stroke=3A4756&ring=4A90D9&fire=7FC7FF&currStreakNum=C5CDD3&currStreakLabel=4A90D9&sideNums=C5CDD3&sideLabels=C5CDD3&dates=8B98A5&hide_border=false" alt="Racha de contribuciones" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Castro-Hernandez&layout=compact&langs_count=8&title_color=4A90D9&text_color=C5CDD3&bg_color=1B2430&border_color=3A4756" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/top-langs/?username=Fernando-Castro-Hernandez&layout=compact&langs_count=8&title_color=4A90D9&text_color=C5CDD3&bg_color=1B2430&border_color=3A4756" alt="Lenguajes más usados" />
 
 <br/>
 
