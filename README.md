@@ -178,7 +178,7 @@ Automatización **en producción** que verifica transferencias bancarias con IA.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fernando-Castro-Hernandez&theme=onedark&background=1B2430&frame=3A4756&title=4A90D9&column=7&margin-w=8&margin-h=8" alt="Trofeos de GitHub" />
+<img src="https://github-profile-trophy-tau-eight.vercel.app/?username=Fernando-Castro-Hernandez&theme=nord&column=7&margin-w=8&margin-h=8" alt="Trofeos de GitHub" />
 
 </div>
 
