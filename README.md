@@ -1,10 +1,10 @@
 <!-- ══════════════════════ BANNER ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2430,50:2E6FA5,100:4A90D9&height=200&section=header&text=Fernando%20Castro&fontSize=52&fontColor=E8EEF4&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20Agentic%20AI%20%26%20Cloud&descSize=17&descAlignY=58&descColor=C5CDD3" alt="Fernando Castro" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1B2430,50:2E6FA5,100:4A90D9&amp;height=200&amp;section=header&amp;text=Fernando%20Castro&amp;fontSize=52&amp;fontColor=E8EEF4&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Agentic%20AI%20%26%20Cloud&amp;descSize=17&amp;descAlignY=58&amp;descColor=C5CDD3" alt="Fernando Castro" />
 
 <!-- ══════════════════ TYPING + SOCIAL ══════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=Estudiante+de+Desarrollo+de+Software;Apasionado+por+el+Desarrollo+Ag%C3%A9ntico+%F0%9F%A4%96;Java+%C2%B7+Spring+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+n8n+%C2%B7+Claude" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=4A90D9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Estudiante+de+Desarrollo+de+Software;Apasionado+por+el+Desarrollo+Ag%C3%A9ntico;Java+%C2%B7+Spring+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+n8n+%C2%B7+Claude" alt="Typing SVG" />
 
 <br/>
 
@@ -16,50 +16,74 @@
 </div>
 
 <!-- ══════════════════════ SOBRE MÍ ══════════════════════ -->
-## ➤ Sobre mí
+## Sobre mí
 
-> 👋 Soy **Fernando**, estudiante de Desarrollo de Software en el **Instituto Tecnológico de Software** (2025–2029), en Mérida, Yucatán. Analítico, autodidacta y orientado al detalle: disfruto entrar a fondo en la parte técnica de cada proyecto y mantenerme al día con la tecnología.
+> Soy **Fernando**, estudiante de Desarrollo de Software en el **Instituto Tecnológico de Software** (2025–2029), en Mérida, Yucatán. Analítico, autodidacta y orientado al detalle: disfruto entrar a fondo en la parte técnica de cada proyecto y mantenerme al día con la tecnología.
 >
-> 🤖 Lo que **más me apasiona hoy es el desarrollo agéntico** y sus variantes —integración de LLMs, automatización con n8n y pipelines de IA con guardrails— tal como se refleja en mis dos proyectos principales. En paralelo fortalezco mis habilidades en **Spring Boot**, **ASP.NET Core** y **servicios de AWS** para especializarme en el desarrollo backend y en la nube.
+> Lo que **más me apasiona hoy es el desarrollo agéntico** y sus variantes —integración de LLMs, automatización con n8n y pipelines de IA con guardrails— tal como se refleja en mis dos proyectos principales. En paralelo fortalezco mis habilidades en **Spring Boot**, **ASP.NET Core** y **servicios de AWS** para especializarme en el desarrollo backend y en la nube.
 >
-> 🎯 Mi meta: aportar valor real a través de **código limpio** y **automatización inteligente** en una empresa con visión de futuro.
+> Mi meta: aportar valor real a través de **código limpio** y **automatización inteligente** en una empresa con visión de futuro.
 
 <br/>
 
-- 🔭 **Construyo:** soluciones con desarrollo agéntico + automatización con IA
-- 🌱 **Aprendiendo:** AWS (EC2, RDS, Lambda…), Spring Boot y arquitectura de software
-- 💼 **Store Manager** en Alfa Mascotas — donde llevé una automatización propia a producción
-- 🏆 **Participaciones:** Global Game Jam · Invent For The Planet
-- 🗣️ **Idiomas:** Español (nativo) · Inglés (B2)
+- **Construyo:** soluciones con desarrollo agéntico + automatización con IA
+- **Aprendiendo:** AWS (EC2, RDS, Lambda…), Spring Boot y arquitectura de software
+- **Store Manager** en Alfa Mascotas — donde llevé una automatización propia a producción
+- **Participaciones:** Global Game Jam · Invent For The Planet
+- **Idiomas:** Español (nativo) · Inglés (B2)
 
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
-## ✦ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Lenguajes & Frameworks**
+**Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,bootstrap&theme=dark" alt="Lenguajes y frameworks" />
+[![Java](https://img.shields.io/badge/Java-2E6FA5?style=for-the-badge)](https://www.oracle.com/java/)
+[![C#](https://img.shields.io/badge/C%23-2E6FA5?style=for-the-badge)](https://learn.microsoft.com/dotnet/csharp/)
+[![SQL](https://img.shields.io/badge/SQL-2E6FA5?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
+
+**Frameworks**
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-2E6FA5?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![.NET](https://img.shields.io/badge/.NET-2E6FA5?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2E6FA5?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/aspnet/core/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-2E6FA5?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 **IA & Automatización**
 
-![Claude](https://img.shields.io/badge/Claude-4A90D9?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-2E6FA5?style=for-the-badge&logo=googlegemini&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-4A90D9?style=for-the-badge&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-2E6FA5?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+[![Claude](https://img.shields.io/badge/Claude-2E6FA5?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
+[![Gemini](https://img.shields.io/badge/Gemini-2E6FA5?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![n8n](https://img.shields.io/badge/n8n-2E6FA5?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+[![MCP](https://img.shields.io/badge/MCP-2E6FA5?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 
-**Cloud & DevOps**
+**Cloud**
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions&theme=dark" alt="Cloud y DevOps" />
+[![AWS](https://img.shields.io/badge/AWS-2E6FA5?style=for-the-badge)](https://aws.amazon.com/)
 
-**Bases de Datos & Herramientas**
+**DevOps**
 
-<img src="https://skillicons.dev/icons?i=postgres,git,github,idea,vscode&theme=dark" alt="Bases de datos y herramientas" />
+[![Terraform](https://img.shields.io/badge/Terraform-2E6FA5?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Docker](https://img.shields.io/badge/Docker-2E6FA5?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2E6FA5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+**Bases de datos**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E6FA5?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![EF Core](https://img.shields.io/badge/EF_Core-2E6FA5?style=for-the-badge)](https://learn.microsoft.com/ef/core/)
+
+**Herramientas**
+
+[![Git](https://img.shields.io/badge/Git-2E6FA5?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-2E6FA5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2E6FA5?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![VS Code](https://img.shields.io/badge/VS_Code-2E6FA5?style=for-the-badge)](https://code.visualstudio.com/)
+[![Swagger](https://img.shields.io/badge/Swagger-2E6FA5?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 
 </div>
 
 <!-- ══════════════════ PROYECTOS DESTACADOS ══════════════════ -->
-## ☕ Proyectos Destacados
+## Proyectos Destacados
 
 <table width="100%">
 <tr>
@@ -70,14 +94,14 @@
 </td>
 <td width="45%" valign="top">
 
-### 🏋️ GymTracker
+### GymTracker
 
 Bitácora de entrenamiento full-stack en **ASP.NET Core 10** con IA integrada.
 
-- 🤖 **AI Coach** + chatbot contextual (Claude Haiku → fallback Gemini)
-- ☁️ Desplegado en **AWS** con **Terraform** (EC2, RDS, ECR, SSM, KMS, IAM/OIDC)
-- 🧱 Arquitectura en 4 capas · 123 tests xUnit · CI/CD
-- 📊 +1,300 ejercicios con GIFs y gráficas Chart.js
+- **AI Coach** + chatbot contextual (Claude Haiku → fallback Gemini)
+- Desplegado en **AWS** con **Terraform** (EC2, RDS, ECR, SSM, KMS, IAM/OIDC)
+- Arquitectura en 4 capas · 123 tests xUnit · CI/CD
+- +1,300 ejercicios con GIFs y gráficas Chart.js
 
 ![C#](https://img.shields.io/badge/C%23-2E6FA5?style=flat-square)
 ![.NET 10](https://img.shields.io/badge/.NET_10-2E6FA5?style=flat-square&logo=dotnet&logoColor=white)
@@ -98,20 +122,20 @@ Bitácora de entrenamiento full-stack en **ASP.NET Core 10** con IA integrada.
 <tr>
 <td width="45%" valign="top">
 
-### 🤖 AlfaMascotas — Verificación de Transferencias
+### AlfaMascotas — Verificación de Transferencias
 
 Automatización **en producción** que verifica transferencias bancarias con IA.
 
-- 🧾 OCR de comprobantes con **Claude Vision** → JSON, orquestado en **n8n** (16 nodos)
-- 🔎 Verificación cruzada contra correos del banco (IMAP, ±$5 MXN) vía **Telegram** en <30s
-- 📗 Auditoría en Google Sheets · reemplazó **+2h/día** de revisión manual en 4 sucursales
-- 🛠️ Construido con **Claude Code + MCP**
+- OCR de comprobantes con **Claude Vision** → JSON, orquestado en **n8n** (16 nodos)
+- Verificación cruzada contra correos del banco (IMAP, ±$5 MXN) vía **Telegram** en <30s
+- Auditoría en Google Sheets · reemplazó **+2h/día** de revisión manual en 4 sucursales
+- Construido con **Claude Code + MCP**
 
 ![n8n](https://img.shields.io/badge/n8n-4A90D9?style=flat-square&logo=n8n&logoColor=white)
 ![Claude Vision](https://img.shields.io/badge/Claude_Vision-4A90D9?style=flat-square&logo=anthropic&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-4A90D9?style=flat-square&logo=telegram&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-4A90D9?style=flat-square&logo=googlesheets&logoColor=white)
-![IMAP](https://img.shields.io/badge/IMAP-4A90D9?style=flat-square&logoColor=white)
+![IMAP](https://img.shields.io/badge/IMAP-4A90D9?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4A90D9?style=flat-square&logo=javascript&logoColor=white)
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-1B2430?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernando-Castro-Hernandez/alfamascotas-verificacion-transferencias)
@@ -126,7 +150,7 @@ Automatización **en producción** que verifica transferencias bancarias con IA.
 </table>
 
 <!-- ══════════════════════ OTROS PROYECTOS ══════════════════════ -->
-## 🗂️ Otros Proyectos
+## Otros Proyectos
 
 <div align="center">
 
@@ -147,21 +171,30 @@ Automatización **en producción** que verifica transferencias bancarias con IA.
 </div>
 
 <!-- ══════════════════ CERTIFICACIONES ══════════════════ -->
-## 🏅 Certificaciones & Logros
+## Certificaciones y Logros
 
 <div align="center">
 
-![AWS Academy](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-2E6FA5?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4A90D9?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Fundamentals_1-2E6FA5?style=for-the-badge&logo=python&logoColor=white)
-![Network](https://img.shields.io/badge/Network_Technician-Career_Path-4A90D9?style=for-the-badge&logo=cisco&logoColor=white)
+<a href="https://www.credly.com/earner/earned/badge/e3b56b6d-34a7-4ada-8376-c3eefdebf82c">
+<img src="https://images.credly.com/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/large_blob.png" alt="AWS Academy Graduate - Cloud Foundations" width="110" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/bcd47bf6-044d-49da-981c-01646e9482a3">
+<img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Network Technician Career Path" width="110" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/8d38f951-ad82-4ed0-a76c-56090ca028b5">
+<img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="110" />
+</a>
 
-**🎮 Global Game Jam** &nbsp;·&nbsp; **🌎 Invent For The Planet**
+<br/><br/>
+
+**Participaciones:** Global Game Jam &nbsp;·&nbsp; Invent For The Planet
 
 </div>
 
 <!-- ══════════════════ ESTADÍSTICAS ══════════════════ -->
-## ▣ Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -192,8 +225,8 @@ Automatización **en producción** que verifica transferencias bancarias con IA.
 <!-- ══════════════════════ FOOTER ══════════════════════ -->
 <div align="center">
 
-**⚡ Gracias por visitar mi perfil — ¡construyamos algo increíble!**
+**Gracias por visitar mi perfil**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:1B2430&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4A90D9,100:1B2430&amp;height=120&amp;section=footer" alt="footer" />
