@@ -1,5 +1,5 @@
 <!-- ══════════════════════ BANNER ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1B2430,50:2E6FA5,100:4A90D9&amp;height=200&amp;section=header&amp;text=Fernando%20Castro&amp;fontSize=52&amp;fontColor=E8EEF4&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Agentic%20AI%20%26%20Cloud&amp;descSize=17&amp;descAlignY=58&amp;descColor=C5CDD3" alt="Fernando Castro" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1B2430,50:2E6FA5,100:4A90D9&amp;height=200&amp;section=header&amp;text=Fernando%20Castro&amp;fontSize=52&amp;fontColor=E8EEF4&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Agentic%20AI%20and%20Cloud&amp;descSize=17&amp;descAlignY=58&amp;descColor=C5CDD3" alt="Fernando Castro" />
 
 <!-- ══════════════════ TYPING + SOCIAL ══════════════════ -->
 <div align="center">
@@ -37,18 +37,9 @@
 
 <div align="center">
 
-**Lenguajes**
+**Lenguajes & Frameworks**
 
-[![Java](https://img.shields.io/badge/Java-2E6FA5?style=for-the-badge)](https://www.oracle.com/java/)
-[![C#](https://img.shields.io/badge/C%23-2E6FA5?style=for-the-badge)](https://learn.microsoft.com/dotnet/csharp/)
-[![SQL](https://img.shields.io/badge/SQL-2E6FA5?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
-
-**Frameworks**
-
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-2E6FA5?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![.NET](https://img.shields.io/badge/.NET-2E6FA5?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2E6FA5?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/aspnet/core/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-2E6FA5?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,bootstrap&theme=dark" alt="Lenguajes y frameworks" />
 
 **IA & Automatización**
 
@@ -57,28 +48,13 @@
 [![n8n](https://img.shields.io/badge/n8n-2E6FA5?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![MCP](https://img.shields.io/badge/MCP-2E6FA5?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 
-**Cloud**
+**Cloud & DevOps**
 
-[![AWS](https://img.shields.io/badge/AWS-2E6FA5?style=for-the-badge)](https://aws.amazon.com/)
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions&theme=dark" alt="Cloud y DevOps" />
 
-**DevOps**
+**Bases de Datos & Herramientas**
 
-[![Terraform](https://img.shields.io/badge/Terraform-2E6FA5?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Docker](https://img.shields.io/badge/Docker-2E6FA5?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2E6FA5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-
-**Bases de datos**
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E6FA5?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![EF Core](https://img.shields.io/badge/EF_Core-2E6FA5?style=for-the-badge)](https://learn.microsoft.com/ef/core/)
-
-**Herramientas**
-
-[![Git](https://img.shields.io/badge/Git-2E6FA5?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-2E6FA5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2E6FA5?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![VS Code](https://img.shields.io/badge/VS_Code-2E6FA5?style=for-the-badge)](https://code.visualstudio.com/)
-[![Swagger](https://img.shields.io/badge/Swagger-2E6FA5?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+<img src="https://skillicons.dev/icons?i=postgres,git,github,idea,vscode&theme=dark" alt="Bases de datos y herramientas" />
 
 </div>
 
