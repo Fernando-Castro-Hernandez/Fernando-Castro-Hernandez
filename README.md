@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E6FA5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-fernando-castro-hernandez)
-[![Email](https://img.shields.io/badge/Email-4A90D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfernandocasher22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-fernando-castro-hernandez)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfernandocasher22@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fer_ch/)
 ![Vistas](https://komarev.com/ghpvc/?username=Fernando-Castro-Hernandez&style=for-the-badge&color=4A90D9&label=Vistas)
 
@@ -35,24 +35,12 @@
 
 <div align="center">
 
-**Lenguajes & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,bootstrap&theme=dark" alt="Lenguajes y frameworks" />
-
-**IA & Automatización**
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,bootstrap,aws,terraform,docker,githubactions,postgres,git,github,idea,vscode&theme=dark" alt="Tech stack" />
 
 [![Claude](https://img.shields.io/badge/Claude-2E6FA5?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
 [![Gemini](https://img.shields.io/badge/Gemini-2E6FA5?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![n8n](https://img.shields.io/badge/n8n-2E6FA5?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![MCP](https://img.shields.io/badge/MCP-2E6FA5?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions&theme=dark" alt="Cloud y DevOps" />
-
-**Bases de Datos & Herramientas**
-
-<img src="https://skillicons.dev/icons?i=postgres,git,github,idea,vscode&theme=dark" alt="Bases de datos y herramientas" />
 
 </div>
 
@@ -77,14 +65,14 @@ Bitácora de entrenamiento full-stack en **ASP.NET Core 10** con IA integrada.
 - Arquitectura en 4 capas · CI/CD
 - +1,300 ejercicios con GIFs y gráficas Chart.js
 
-![C#](https://img.shields.io/badge/C%23-2E6FA5?style=flat-square)
-![.NET 10](https://img.shields.io/badge/.NET_10-2E6FA5?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2E6FA5?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E6FA5?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2E6FA5?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-2E6FA5?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2E6FA5?style=flat-square&logo=docker&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-2E6FA5?style=flat-square&logo=anthropic&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-1B2430?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernando-Castro-Hernandez/GymTracker)
 
@@ -105,12 +93,12 @@ Automatización **en producción** que verifica transferencias bancarias con Aut
 - Auditoría en Google Sheets · reemplazó **+2h/día** de revisión manual en 4 sucursales
 - Construido con **Claude Code + MCP**
 
-![n8n](https://img.shields.io/badge/n8n-4A90D9?style=flat-square&logo=n8n&logoColor=white)
-![Claude Vision](https://img.shields.io/badge/Claude_Vision-4A90D9?style=flat-square&logo=anthropic&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-4A90D9?style=flat-square&logo=telegram&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-4A90D9?style=flat-square&logo=googlesheets&logoColor=white)
-![IMAP](https://img.shields.io/badge/IMAP-4A90D9?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-4A90D9?style=flat-square&logo=javascript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude Vision](https://img.shields.io/badge/Claude_Vision-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![IMAP](https://img.shields.io/badge/IMAP-4C4C4C?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-1B2430?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernando-Castro-Hernandez/alfamascotas-verificacion-transferencias)
 
