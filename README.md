@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,bootstrap,aws,terraform,docker,githubactions,postgres,git,github,idea,vscode&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,aws,terraform,docker,githubactions,postgres,git,github,idea,vscode&theme=dark" alt="Tech stack" />
 
 [![Claude](https://img.shields.io/badge/Claude-2E6FA5?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
 [![Gemini](https://img.shields.io/badge/Gemini-2E6FA5?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
