@@ -1,16 +1,16 @@
 <!-- ══════════════════════ BANNER ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1B2430,50:2E6FA5,100:4A90D9&amp;height=200&amp;section=header&amp;text=Fernando%20Castro&amp;fontSize=52&amp;fontColor=E8EEF4&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Agentic%20AI%20and%20Cloud&amp;descSize=17&amp;descAlignY=58&amp;descColor=C5CDD3" alt="Fernando Castro" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1B2430,50:2E6FA5,100:4A90D9&amp;height=200&amp;section=header&amp;text=Fernando%20Castro&amp;fontSize=52&amp;fontColor=E8EEF4&amp;fontAlignY=38&amp;desc=Software%20Development%20Student&amp;descSize=18&amp;descAlignY=58&amp;descColor=C5CDD3" alt="Fernando Castro" />
 
 <!-- ══════════════════ TYPING + SOCIAL ══════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=4A90D9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Estudiante+de+Desarrollo+de+Software;Apasionado+por+el+Desarrollo+Ag%C3%A9ntico;Java+%C2%B7+Spring+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+n8n+%C2%B7+Claude" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=4A90D9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Apasionado+por+el+Desarrollo+Ag%C3%A9ntico;Java+%C2%B7+Spring+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+Python;AWS+%C2%B7+Terraform+%C2%B7+Docker;n8n+%C2%B7+Claude" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E6FA5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-fernando-castro-hernandez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E6FA5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-fernando-castro-hernandez)
 [![Email](https://img.shields.io/badge/Email-4A90D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfernandocasher22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-222831?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernando-Castro-Hernandez)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fer_ch/)
 ![Vistas](https://komarev.com/ghpvc/?username=Fernando-Castro-Hernandez&style=for-the-badge&color=4A90D9&label=Vistas)
 
 </div>
@@ -18,9 +18,9 @@
 <!-- ══════════════════════ SOBRE MÍ ══════════════════════ -->
 ## Sobre mí
 
-> Soy **Fernando**, estudiante de Desarrollo de Software en el **Instituto Tecnológico de Software** (2025–2029), en Mérida, Yucatán. Analítico, autodidacta y orientado al detalle: disfruto entrar a fondo en la parte técnica de cada proyecto y mantenerme al día con la tecnología.
+> Soy **Fernando**, estudiante de Desarrollo de Software en el **Instituto Tecnológico de Software**. Analítico, autodidacta y orientado al detalle: disfruto entrar a fondo en la parte técnica de cada proyecto y mantenerme al día con la tecnología.
 >
-> Lo que **más me apasiona hoy es el desarrollo agéntico** y sus variantes —integración de LLMs, automatización con n8n y pipelines de IA con guardrails— tal como se refleja en mis dos proyectos principales. En paralelo fortalezco mis habilidades en **Spring Boot**, **ASP.NET Core** y **servicios de AWS** para especializarme en el desarrollo backend y en la nube.
+> Lo que **más me apasiona hoy es el desarrollo agéntico** y sus variantes integración de LLMs, automatización con n8n y pipelines de IA  tal como se refleja en mis dos proyectos principales. En paralelo fortalezco mis habilidades en **Spring Boot**, **ASP.NET Core** y **servicios de AWS** para especializarme en el desarrollo backend y en la nube.
 >
 > Mi meta: aportar valor real a través de **código limpio** y **automatización inteligente** en una empresa con visión de futuro.
 
@@ -28,9 +28,7 @@
 
 - **Construyo:** soluciones con desarrollo agéntico + automatización con IA
 - **Aprendiendo:** AWS (EC2, RDS, Lambda…), Spring Boot y arquitectura de software
-- **Store Manager** en Alfa Mascotas — donde llevé una automatización propia a producción
-- **Participaciones:** Global Game Jam · Invent For The Planet
-- **Idiomas:** Español (nativo) · Inglés (B2)
+
 
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 ## Tech Stack
@@ -74,9 +72,9 @@
 
 Bitácora de entrenamiento full-stack en **ASP.NET Core 10** con IA integrada.
 
-- **AI Coach** + chatbot contextual (Claude Haiku → fallback Gemini)
+- **AI Coach** + **Chatbot contextual** 
 - Desplegado en **AWS** con **Terraform** (EC2, RDS, ECR, SSM, KMS, IAM/OIDC)
-- Arquitectura en 4 capas · 123 tests xUnit · CI/CD
+- Arquitectura en 4 capas · CI/CD
 - +1,300 ejercicios con GIFs y gráficas Chart.js
 
 ![C#](https://img.shields.io/badge/C%23-2E6FA5?style=flat-square)
@@ -100,10 +98,10 @@ Bitácora de entrenamiento full-stack en **ASP.NET Core 10** con IA integrada.
 
 ### AlfaMascotas — Verificación de Transferencias
 
-Automatización **en producción** que verifica transferencias bancarias con IA.
+Automatización **en producción** que verifica transferencias bancarias con Automaticamente.
 
 - OCR de comprobantes con **Claude Vision** → JSON, orquestado en **n8n** (16 nodos)
-- Verificación cruzada contra correos del banco (IMAP, ±$5 MXN) vía **Telegram** en <30s
+- Verificación cruzada contra correos del banco vía **Telegram** en <30s
 - Auditoría en Google Sheets · reemplazó **+2h/día** de revisión manual en 4 sucursales
 - Construido con **Claude Code + MCP**
 
@@ -165,7 +163,6 @@ Automatización **en producción** que verifica transferencias bancarias con IA.
 
 <br/><br/>
 
-**Participaciones:** Global Game Jam &nbsp;·&nbsp; Invent For The Planet
 
 </div>
 
