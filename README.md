@@ -1,5 +1,6 @@
 <!-- ══════════════════════ BANNER ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1B2430,50:2E6FA5,100:4A90D9&amp;height=200&amp;section=header&amp;text=Fernando%20Castro&amp;fontSize=52&amp;fontColor=E8EEF4&amp;fontAlignY=38&amp;desc=Software%20Development%20Student&amp;descSize=18&amp;descAlignY=58&amp;descColor=C5CDD3" alt="Fernando Castro" />
+<!-- ══════════════════════ BANNER (TURQUESA) ══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1D28,50:006B7B,100:00B4D8&amp;height=200&amp;section=header&amp;text=Fernando%20Castro&amp;fontSize=52&amp;fontColor=E8EEF4&amp;fontAlignY=38&amp;desc=Software%20Development%20Student&amp;descSize=18&amp;descAlignY=58&amp;descColor=C5CDD3" alt="Fernando Castro" />
 
 <!-- ══════════════════ TYPING + SOCIAL ══════════════════ -->
 <div align="center">
