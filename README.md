@@ -52,7 +52,7 @@
 <tr>
 <td width="55%">
 <a href="https://github.com/Fernando-Castro-Hernandez/GymTracker">
-<img width="100%" src="https://raw.githubusercontent.com/Fernando-Castro-Hernandez/GymTracker/main/docs/Images/LandingGymTracker.png" alt="GymTracker" />
+<img width="100%" src="https://raw.githubusercontent.com/Fernando-Castro-Hernandez/Fernando-Castro-Hernandez/main/img/landigGymtracker.png" alt="GymTracker" />
 </a>
 </td>
 <td width="45%" valign="top">
@@ -139,7 +139,7 @@ Automatización **en producción** que verifica transferencias bancarias con Aut
 <div align="center">
 
 <a href="https://www.credly.com/earner/earned/badge/e3b56b6d-34a7-4ada-8376-c3eefdebf82c">
-<img src="https://images.credly.com/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/large_blob.png" alt="AWS Academy Graduate - Cloud Foundations" width="110" />
+<img src="https://raw.githubusercontent.com/Fernando-Castro-Hernandez/Fernando-Castro-Hernandez/main/img/aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy Graduate - Cloud Foundations" width="110" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.credly.com/earner/earned/badge/bcd47bf6-044d-49da-981c-01646e9482a3">
