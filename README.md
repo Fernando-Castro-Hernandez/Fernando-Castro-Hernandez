@@ -118,40 +118,25 @@ Automatización **en producción** que verifica transferencias bancarias con Aut
 <div align="center">
 
 <a href="https://github.com/Fernando-Castro-Hernandez/MazeSolver-BFS-DFS-visualizer">
-<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=MazeSolver-BFS-DFS-visualizer&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="MazeSolver" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=MazeSolver-BFS-DFS-visualizer&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756&v=3" alt="MazeSolver" />
 </a>
 <a href="https://github.com/Fernando-Castro-Hernandez/Market-Backend-Demo">
-<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Market-Backend-Demo&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Market Backend Demo" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Market-Backend-Demo&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756&v=3" alt="Market Backend Demo" />
+</a>
+<br/>
+<a href="https://github.com/Fernando-Castro-Hernandez/PokeAPI---Fer">
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=PokeAPI---Fer&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756&v=3" alt="PokeAPI Fer" />
+</a>
+<a href="https://github.com/Fernando-Castro-Hernandez/Battleship-en-Java">
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Battleship-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756&v=3" alt="Battleship en Java" />
 </a>
 <br/>
 <a href="https://github.com/Fernando-Castro-Hernandez/Proyectos-de-Programaci-n-Estructura-en-Java">
-<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Proyectos-de-Programaci-n-Estructura-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Proyectos Java Estructurada" />
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Proyectos-de-Programaci-n-Estructura-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756&v=3" alt="Proyectos Java Estructurada" />
 </a>
-<a href="https://github.com/Fernando-Castro-Hernandez/Battleship-en-Java">
-<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Battleship-en-Java&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756" alt="Battleship en Java" />
+<a href="https://github.com/Fernando-Castro-Hernandez/Portafolio-de-Proyectos-HTML-CSS-JS">
+<img src="https://github-readme-stats-one-delta-15.vercel.app/api/pin/?username=Fernando-Castro-Hernandez&repo=Portafolio-de-Proyectos-HTML-CSS-JS&title_color=4A90D9&text_color=C5CDD3&icon_color=7FC7FF&bg_color=1B2430&border_color=3A4756&v=3" alt="Portafolio de Proyectos HTML CSS JS" />
 </a>
-
-</div>
-
-<!-- ══════════════════ CERTIFICACIONES ══════════════════ -->
-## Certificaciones y Logros
-
-<div align="center">
-
-<a href="https://www.credly.com/earner/earned/badge/e3b56b6d-34a7-4ada-8376-c3eefdebf82c">
-<img src="https://raw.githubusercontent.com/Fernando-Castro-Hernandez/Fernando-Castro-Hernandez/main/img/aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy Graduate - Cloud Foundations" width="110" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.credly.com/earner/earned/badge/bcd47bf6-044d-49da-981c-01646e9482a3">
-<img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Network Technician Career Path" width="110" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.credly.com/earner/earned/badge/8d38f951-ad82-4ed0-a76c-56090ca028b5">
-<img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="110" />
-</a>
-
-<br/><br/>
-
 
 </div>
 
